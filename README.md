@@ -15,3 +15,5 @@ per country status using regression analysis and multiple models to draw conclus
 - This dataset is large, with 22 Columns and 2938 rows and 20 predicting variables.
 - There are 18 numerical and 2 categorical features.
 - Not all data was able to be acquired, so less known countries like Vanuatu, Tonga, Togo, Cabo Verde were not included due to lack of accurate information.
+
+## Presentation: https://youtu.be/v4NB4Dhh828
