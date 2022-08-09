@@ -2,11 +2,11 @@
 
 ## Problem:
 World health is at the epicenter of public information via the news media ever since the Coronavirus pandemic. 
-However, despite the craze, it is still important to higlight the baselines of health, which include socioeconomic and disease data! 
+However, despite the craze, it is still important to highlight the baselines of health, which include socioeconomic and health data! 
 These issues and their relationship to lower life expectancy will be explored in the context of developed vs developing countries.
 
 ## Motivation:
-The main goal is to determine if GDP (external threat) has a more profound impact on life expectancy of adults than disease/BMI (external threat) 
+The main goal is to determine if socioeconomic factors (external threat) have a more profound impact on life expectancy of adults than health factors (internal threat) 
 per country status using regression analysis and multiple models to draw conclusions to what trending data might suggest in the future.
 
 ## Dataset:
