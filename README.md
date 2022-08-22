@@ -1,4 +1,4 @@
-# World Health Predictors and Life Expectancy -  CSPB3022 Data Science: Final Project
+# CSPB3022 Data Science: Final Project - World Health Predictors and Life Expectancy
 
 ## Problem:
 World health is at the epicenter of public information via the news media ever since the Coronavirus pandemic. 
